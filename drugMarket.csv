@@ -1,0 +1,89 @@
+Country,DrugType,DrugPrice
+Australia,Meth,641.4
+Austria,Meth,16.7
+China,Meth,72.9
+Czech Republic,Meth,52.3
+Finland,Meth,45.9
+Germany,Meth,89.2
+Honduras,Meth,13
+Hungary,Meth,14.4
+Indonesia,Meth,203.8
+Japan,Meth,125.3
+Latvia,Meth,13.2
+Lithuania,Meth,12.7
+Moldova,Meth,5
+New Zealand,Meth,573.9
+Philippines,Meth,214.1
+South Africa,Meth,27
+Spain,Meth,30.5
+Sweden,Meth,25.3
+Switzerland,Meth,286.7
+Ukraine,Meth,25
+United Kingdom,Meth,88.45
+United States,Meth,3
+Australia,Cocaine,300
+Austria,Cocaine,97.3
+China,Cocaine,106.9
+Czech Republic,Cocaine,104.8
+Finland,Cocaine,106
+Germany,Cocaine,86.9
+Honduras,Cocaine,9.2
+Hungary,Cocaine,72.1
+Indonesia,Cocaine,96.5
+Japan,Cocaine,269.5
+Latvia,Cocaine,112.6
+Lithuania,Cocaine,78.9
+Moldova,Cocaine,155.4
+New Zealand,Cocaine,179.3
+Philippines,Cocaine,119
+South Africa,Cocaine,32.7
+Spain,Cocaine,79.5
+Sweden,Cocaine,110.6
+Switzerland,Cocaine,95.6
+Ukraine,Cocaine,189.6
+United Kingdom,Cocaine,61.5
+United States,Cocaine,300
+Australia,Heroin,500
+Austria,Heroin,97.3
+China,Heroin,66.9
+Czech Republic,Heroin,52.3
+Finland,Heroin,159
+Germany,Heroin,48
+Honduras,Heroin,5.3
+Hungary,Heroin,48.1
+Indonesia,Heroin,98.95
+Japan,Heroin,683.6
+Latvia,Heroin,132.5
+Lithuania,Heroin,76.6
+Moldova,Heroin,126.3
+New Zealand,Heroin,717.4
+Philippines,Heroin,108.8
+South Africa,Heroin,35
+Spain,Heroin,80.4
+Sweden,Heroin,276.5
+Switzerland,Heroin,47.8
+Ukraine,Heroin,123.9
+United Kingdom,Heroin,61.5
+United States,Heroin,200
+Australia,Marijuana,22.9
+Austria,Marijuana,9.7
+China,Marijuana,0.8
+Czech Republic,Marijuana,13
+Finland,Marijuana,23.2
+Germany,Marijuana,11.5
+Honduras,Marijuana,1.8
+Hungary,Marijuana,12
+Indonesia,Marijuana,4
+Japan,Marijuana,68.4
+Latvia,Marijuana,15.9
+Lithuania,Marijuana,13.5
+Moldova,Marijuana,6.8
+New Zealand,Marijuana,14.3
+Philippines,Marijuana,0.9
+South Africa,Marijuana,0.1
+Spain,Marijuana,5
+Sweden,Marijuana,13.8
+Switzerland,Marijuana,9.6
+Ukraine,Marijuana,3.2
+United Kingdom,Marijuana,4.4
+United States,Marijuana,20
